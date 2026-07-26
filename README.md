@@ -1,119 +1,104 @@
+<h1 align="center">Hi 👋, I'm Aniket</h1>
+
+<h3 align="center">
+Python Backend Developer | Django | FastAPI | AI Builder
+</h3>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;Django+Developer;Learning+FastAPI;AI+Builder+Intern;Always+Learning+New+Things"/>
+
+</p>
+
 ```text
+██████╗  █████╗  ██████╗██╗  ██╗███████╗███╗   ██╗██████╗
+██╔══██╗██╔══██╗██╔════╝██║ ██╔╝██╔════╝████╗  ██║██╔══██╗
+██████╔╝███████║██║     █████╔╝ █████╗  ██╔██╗ ██║██║  ██║
+██╔══██╗██╔══██║██║     ██╔═██╗ ██╔══╝  ██║╚██╗██║██║  ██║
+██████╔╝██║  ██║╚██████╗██║  ██╗███████╗██║ ╚████║██████╔╝
+╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝
 
- █████╗ ███╗   ██╗██╗██╗  ██╗███████╗████████╗
-██╔══██╗████╗  ██║██║██║ ██╔╝██╔════╝╚══██╔══╝
-███████║██╔██╗ ██║██║█████╔╝ █████╗     ██║
-██╔══██║██║╚██╗██║██║██╔═██╗ ██╔══╝     ██║
-██║  ██║██║ ╚████║██║██║  ██╗███████╗   ██║
-╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝
+────────────────────────────────────────────────────────────
 
-=============================================================
-                 BACKEND DEVELOPER | AI BUILDER
-=============================================================
+Name............ Aniket
+Username........ aniket485
+Role............ Backend Developer
+Organization.... MirAI School of Technology
+Track........... AI Builder Internship
 
-Username.......... aniket485
-Name.............. Aniket
-Role.............. Python Backend Developer
-Education......... B.Tech (Pursuing)
-Organization...... MirAI School of Technology
-Track............. AI Builder Virtual Summer Internship 2026
+OS.............. Windows 11
+Editor.......... VS Code
+Languages....... Python, JavaScript
+Framework....... Django
+Learning........ FastAPI
+Database........ MySQL, SQLite
+Tools........... Git, GitHub, Postman
 
--------------------------------------------------------------
+Current Goal.... Software Engineer
+Focus........... Backend + AI
+Status.......... Building Projects
 
-OS................ Windows 11
-Editor............ VS Code
-Version Control... Git & GitHub
-Terminal.......... PowerShell
-Browser........... Google Chrome
+```
+## 🛠 Tech Stack
 
--------------------------------------------------------------
+<p align="center">
 
-Languages......... Python
-Frontend.......... HTML, CSS, JavaScript
-Backend........... Django, FastAPI (Learning)
-Database.......... MySQL, SQLite
-API............... REST API
-Tools............. Git, GitHub, Postman
-Learning.......... FastAPI, AI, Machine Learning
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,mysql,sqlite,git,github,vscode,postman"/>
 
--------------------------------------------------------------
+</p>
 
-Current Goal...... Become a Backend Engineer
-Interested In..... Artificial Intelligence
-Favorite Topic.... Backend Development
-Hobbies........... Coding | Learning | Problem Solving
+## 📊 GitHub Stats
 
--------------------------------------------------------------
+<p align="center">
 
-Quote............. "Code. Learn. Improve. Repeat."
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aniket485&show_icons=true&theme=tokyonight"/>
 
-Status............ Building Projects...
-Availability...... Open to Learning & Internship Opportunities
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket485&layout=compact&theme=tokyonight"/>
 
-=============================================================
+</p>
 
-```## 📊 GitHub Stats
+## 🔥 Contribution Streak
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniket485&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket485&layout=compact&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=aniket485&theme=tokyonight"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=aniket485&theme=tokyonight)
+</p>
 
----
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aniket485&theme=tokyonight&margin-w=10"/>
+
+</p>
+
+## 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniket485&theme=tokyo-night"/>
+
+</p>
 
 ## 🚀 About Me
 
-- 🔭 Currently learning FastAPI and Backend Development
-- 🌱 Exploring Artificial Intelligence and Machine Learning
-- 💻 Passionate about Python Development
-- 📚 Building Real-World Backend Projects
+- 🔭 Currently learning FastAPI
+- 🌱 Exploring Artificial Intelligence & Machine Learning
+- 💻 Passionate about Backend Development
+- 📚 Building Real-World Django Projects
 - 🎯 Goal: Become a Software Engineer
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-- Python
-- JavaScript
-- HTML
-- CSS
-
-### Frameworks
-- Django
-- FastAPI (Learning)
-
-### Database
-- SQLite
-- MySQL
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-
----
 
 ## 📂 Current Projects
 
-✅ AI Builder Internship Projects
-
-✅ Django Backend Projects
-
-✅ FastAPI Learning Projects
-
-✅ CRM Application
-
-✅ Portfolio Website
-
----
+- 🤖 AI Builder Internship Projects
+- 🌐 Django Backend Projects
+- ⚡ FastAPI Learning Projects
+- 🏢 CRM Application
+- 🎨 Portfolio Website
 
 ## 📫 Connect With Me
 
-GitHub : https://github.com/aniket485
-
-LinkedIn : Add Your LinkedIn Profile
-
-Email : your_email@example.com
+- GitHub: https://github.com/aniket485
+- LinkedIn: https://www.linkedin.com/feed/
+- Email: aniketkumar802221@gmail.com
